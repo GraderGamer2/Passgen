@@ -1,4 +1,4 @@
-<p align="center"><img src="icon.png" width="128" alt="PassGen icon"></p>
+<p align="center"><img src="linux/passgen.svg" width="128" alt="PassGen icon"></p>
 
 # PassGen
 
